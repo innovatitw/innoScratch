@@ -133,7 +133,7 @@
         queryFirmware();
         pinging = true;
       }
-    }, 100);
+    }, 1000);
   }
 
   function hasCapability(pin, mode) {
