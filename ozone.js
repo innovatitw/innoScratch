@@ -903,6 +903,6 @@
     url: 'http://innovatitw.github.io/innoScratch'
   };
 
-  ScratchExtensions.register('Arduino', descriptor, ext, {type:'serial'});
+  ScratchExtensions.register('Ozone', descriptor, ext, {type:'serial'});
 
 })({});
